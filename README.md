@@ -18,3 +18,6 @@ A canary deployment consists of a separate deployment with your new version and 
 Rolling updates are ideal because they allow you to deploy an application slowly with minimal overhead, minimal performance impact, and minimal downtime. There are instances where it is beneficial to modify the load balancers to point to that new version only after it has been fully deployed. In this case, blue-green deployments are the way to go.
 
 ![alt text](https://cdn.qwiklabs.com/POW8Q247ZKNY%2ByHIartCsoEu8MAih7k4u1twusCx6pw%3D?raw=true)
+
+## Solution
+Solutione file has the the commands step by step
